@@ -39,7 +39,7 @@ body {
 /*--- Landing Page ---*/
 
 .home-inner {
-    background-image: url(../img/computers.png);
+    background-image: url(../img/clouds.jpg);
 }
 .caption{
     width: 100%;
@@ -135,7 +135,7 @@ color: #1ebba3;
 
 /* Resources Section */
 .fixed {
-    background-image: url(../img/apple.png);
+    background-image: https://cdn.vox-cdn.com/thumbor/5_topR-lGjqjyMy9wpX32tCDPKk=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/8487069/jbareham_170509_1677_0143_v02.jpg;
     z-index: -1;
 }
 .dark {
@@ -245,18 +245,3 @@ Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 
 =============*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
